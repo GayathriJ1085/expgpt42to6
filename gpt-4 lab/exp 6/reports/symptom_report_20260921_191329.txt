@@ -1,0 +1,85 @@
+===== Analysis round 1 (2026-09-21 19:13) =====
+MEDICAL SYMPTOM ANALYSIS
+--------------------------------
+Patient: Age 22, Sex: female
+Severity reported: Mild
+
+Reported Symptoms:
+  • sore throat
+  • mild fever
+  • cough
+
+Duration:
+  2 days
+
+Possible Conditions (not a diagnosis):
+  1. Viral Pharyngitis
+  2. Bacterial Pharyngitis
+  3. Common Cold
+
+Why These Were Considered:
+  Viral Pharyngitis: Common viral infection causing sore throat, fever, and cough. Duration of 2 days is consistent with viral infections.
+  Bacterial Pharyngitis: Possible bacterial infection causing sore throat, fever, and cough. However, duration of 2 days is less typical for bacterial infections.
+  Common Cold: Mild symptoms could be consistent with a common cold, but fever is not typically a primary symptom.
+
+Additional Information Needed:
+  • Duration of symptoms: Are symptoms worsening or improving? 
+  • Severity of symptoms: Are symptoms severe enough to impact daily activities? 
+  • Additional symptoms: Are there any other symptoms such as headache, fatigue, or body aches? 
+  • Medical history: Has the patient had any recent travel or exposure to others with similar symptoms? 
+
+General Self-care:
+  • Stay hydrated by drinking plenty of fluids.
+  • Rest and avoid strenuous activities.
+  • Use a humidifier to relieve cough and congestion.
+
+Urgency Level:
+  ROUTINE SELF-CARE
+
+Medical Attention:
+  If symptoms worsen, persist, or concern the patient, seek medical attention.
+
+Disclaimer:
+  This is an informational AI analysis and not a medical diagnosis. It can be wrong. Please consult a qualified doctor for any health concern.
+--------------------------------
+
+===== Analysis round 2 (2026-09-21 19:13) =====
+MEDICAL SYMPTOM ANALYSIS
+--------------------------------
+Patient: Age 22, Sex: female
+Severity reported: Mild
+
+Reported Symptoms:
+  • sore throat
+  • mild fever
+  • cough
+
+Duration:
+  2 days
+
+Possible Conditions (not a diagnosis):
+  1. Viral Pharyngitis
+  2. Bacterial Pharyngitis
+  3. Common Cold
+
+Why These Were Considered:
+  Viral Pharyngitis: Common viral infection causing sore throat, mild fever, and cough. Duration of 2 days is consistent with viral infections.
+  Bacterial Pharyngitis: Possible bacterial infection causing sore throat, mild fever, and cough. However, the mild severity and duration of 2 days make it less likely.
+  Common Cold: Mild symptoms like sore throat, mild fever, and cough can be associated with a common cold. However, the presence of a cough is less typical for a common cold.
+
+Additional Information Needed:
+  • Temperature is 100.4 F, no breathing difficulty.
+
+General Self-care:
+  • Rest and staying hydrated with fluids
+
+Urgency Level:
+  ROUTINE SELF-CARE
+
+Medical Attention:
+  Recommended for further evaluation if symptoms worsen, persist, or concern the patient.
+
+Disclaimer:
+  This is an informational AI analysis and not a medical diagnosis. It can be wrong. Please consult a qualified doctor for any health concern.
+--------------------------------
+

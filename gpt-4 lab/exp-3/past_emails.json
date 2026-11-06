@@ -1,0 +1,34 @@
+[
+  {
+    "email": "My package arrived damaged.",
+    "reply": "We are sorry for the inconvenience. We will arrange a replacement immediately."
+  },
+  {
+    "email": "My order has not been delivered yet.",
+    "reply": "We apologize for the delay. Our team is checking your shipment and you will receive an update shortly."
+  },
+  {
+    "email": "I want to cancel my order and get a refund.",
+    "reply": "We are sorry to see you cancel. Your cancellation has been processed and the refund will reach your account within 5 to 7 working days."
+  },
+  {
+    "email": "I was charged twice for the same purchase.",
+    "reply": "We apologize for the billing error. We have flagged the duplicate charge and it will be refunded within 3 to 5 working days."
+  },
+  {
+    "email": "I forgot my password and cannot log in to my account.",
+    "reply": "Please click 'Forgot Password' on the login page. We will send a reset link to your registered email address."
+  },
+  {
+    "email": "The product I received is different from what I ordered.",
+    "reply": "We apologize for the mix-up. Please share your order number and we will send the correct item at no extra cost."
+  },
+  {
+    "email": "How can I track my order?",
+    "reply": "You can track your order using the tracking link in your confirmation email, or in the 'My Orders' section of your account."
+  },
+  {
+    "email": "The app keeps crashing when I try to open it.",
+    "reply": "We are sorry for the trouble. Please update the app to the latest version. If the issue continues, reply with your device model and we will investigate."
+  }
+]

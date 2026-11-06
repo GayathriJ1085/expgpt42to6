@@ -1,0 +1,16 @@
+EMPLOYMENT AGREEMENT
+
+This agreement is between ABC Technologies Pvt Ltd
+and employee John Smith.
+
+1. The employee will work as a Software Developer.
+2. The employment period is 2 years.
+3. The employee will receive a salary of Rs. 5,00,000 per year.
+4. The employee must not work for any competing company
+   for 3 years after leaving the organization.
+5. The company can terminate employment without prior notice.
+6. The employee must maintain confidentiality.
+7. Any disputes will be handled only in the company's
+   registered city.
+
+Signed by both parties.
